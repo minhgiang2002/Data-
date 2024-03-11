@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "C:/xampp/htdocs/Project"
+		},
+		{
+			"path": "../NNPTM_S6"
+		},
+		{
+			"path": "C:/Users/PC/Downloads/Compressed/08Mar-main/08Mar-main"
+		},
+		{
+			"path": "../sa"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "08Mar-main"
+	}
+}
